@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="button_main">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="message_received">Message Received</string>
+    <string name="message_hint">Enter Your Message Here</string>
+    <string name="editText_main">Enter Your Message Here</string>
+</resources>
